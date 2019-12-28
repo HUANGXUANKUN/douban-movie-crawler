@@ -1,4 +1,4 @@
-### **Crawl a list of top 250 movies on Douban**
+### **Crawl a list of top 250 movies rated on Douban**
 
 ![result](img/result.png)
 
