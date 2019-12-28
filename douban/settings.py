@@ -91,8 +91,8 @@ ITEM_PIPELINES = {
 
 FEED_EXPORT_ENCODING = 'utf-8-sig'
 
-mongo_host = "localhost"
-mongo_port = 27017
-mongo_db_name = 'douban'
-mongo_db_collection = 'douban_movie'
+# mongo_host = "localhost"
+# mongo_port = 27017
+# mongo_db_name = 'douban'
+# mongo_db_collection = 'douban_movie'
 
