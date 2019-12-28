@@ -1,6 +1,6 @@
 ### **Crawl a list of top 250 movies on Douban**
 
-![result](img\result.png)
+![result](img/result.png)
 
 
 
