@@ -3,11 +3,7 @@
 ![result](img/result.png)
 
 
-
 Use `scrapy` to crawl the top250 rating movies in 
-
-[douban]: 
-
 
 
 ## Preparements:
